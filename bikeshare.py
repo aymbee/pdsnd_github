@@ -34,7 +34,7 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     city = askuser(
         city_list,
-        "please enter city: chicago, new york city or washington > ")
+        "please enter two cities: chicago, new york city or washington > ")
 
     # TO DO: get user input for month (all, january, february, ... , june)
     month = askuser(

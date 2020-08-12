@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+I recreated this project on the 10/08/2020
 
 ### Project Title
-Replace the Project Title
+Command Lines Project
 
 ### Description
-Describe what your project is about and what it does
+I am Learning about command lines and have submitted my Bikeshare.py file on GitHub
 
 ### Files used
-Include the files used
+Files used are my bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Most my credit goes to Udacity and GitHub. Github also had useful info.
 
